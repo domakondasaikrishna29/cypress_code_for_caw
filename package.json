@@ -1,0 +1,14 @@
+{
+  "name": "cypress_code_for_caw",
+  "version": "1.0.0",
+  "description": "Assignment for caw studios for the position of SDET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saikrishna domakonda",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.5.1"
+  }
+}
